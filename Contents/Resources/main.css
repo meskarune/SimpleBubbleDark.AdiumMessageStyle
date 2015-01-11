@@ -20,6 +20,9 @@ img {
   min-height: 56px;
   margin-bottom: .5em;
 }
+.history {
+  opacity: .8;
+}
 .avatar, .bubble, img {
   -webkit-border-radius: 5px;
 }
